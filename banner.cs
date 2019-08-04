@@ -6,7 +6,7 @@ namespace XmlCutter
 {
     class Banner
     {
-
+        
         public const string BLANK = @"                                                                              ";
 
         public static void Print()
