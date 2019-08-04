@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("XmlCutter")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Xml Cutter")]
+[assembly: AssemblyDescription("Cut xml files.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("XmlCutter")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyProduct("Xml Cutter")]
+[assembly: AssemblyCopyright("©  2019 By Randerion(HaoJun0823)")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

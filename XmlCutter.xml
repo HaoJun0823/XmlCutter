@@ -18,8 +18,20 @@
 		<XmlIndex root="AudioEvent" attr="id" type="AudioEvents" />	
 		<XmlIndex root="AudioFile" type="AudioFiles" />			
 		<XmlIndex root="ButtonSingleStateData" attr="id" type="ButtonSingleStateDatas" />	
-		<XmlIndex root="ExperienceLevelTemplate" attr="id" type="ExperienceLevels" />			
-		<XmlIndex root="FXList" attr="id" type="FXLists" />	
+		<XmlIndex root="ExperienceLevelTemplate" attr="id" type="ExperienceLevels" />
+    <XmlIndex root="VideoEventList" attr="id" type="VideoEventLists" />
+    <XmlIndex root="Video" attr="id" type="Videos" />
+    <XmlIndex root="UnitTypeIcon" attr="id" type="UnitTypeIcons" />
+    <XmlIndex root="UnitIntro" attr="id" type="UnitIntros" />
+    <XmlIndex root="UnitAbilityButtonTemplate" attr="id" type="UnitAbilityButtons" />
+    <XmlIndex root="SpecialPowerTemplate" attr="id" type="SpecialPowers" />
+    <XmlIndex root="RadiusCursor" attr="id" type="RadiusCursors" />
+    <XmlIndex root="PackedTextureImage" attr="id" type="PackedTextureImages" />
+    <XmlIndex root="Multisound" attr="id" type="Multisounds" />
+    <XmlIndex root="LogicCommandSet" attr="id" type="LogicCommandSets" />
+    <XmlIndex root="LogicCommand" attr="id" type="LogicCommands" />
+    <XmlIndex root="Texture" attr="id" type="Textures" />
+    <XmlIndex root="FXList" attr="id" type="FXLists" />	
 		<XmlIndex root="FXParticleSystemTemplate" attr="id" type="FXParticleSystems" />		
 		<XmlIndex root="LocomotorTemplate" attr="id" type="Locomotors" />		
 	</IndexList>
