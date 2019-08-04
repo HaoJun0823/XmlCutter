@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+  <Parent element="AssetDeclaration">
+    <attr>
+      <xmlns attr="uri:ea.com:eala:asset"/>
+      <xmlns:xsi attr="http://www.w3.org/2001/XMLSchema-instance"/>
+      <xmlns:xai attr="uri:ea.com:eala:asset:instance"/>
+    <xmlns:xi attr="http://www.w3.org/2001/XInclude"/>
+    </attr>
+  </Parent>
+  <Append>
+    <Includes/>
+  </Append>
+	<IndexList>
+		<XmlIndex root="GameObject" attr="id" />
+		<XmlIndex root="WeaponTemplate" attr="id" type="Weapons" />
+		<XmlIndex root="ArmorTemplate" attr="id" type="Armors" />
+		<XmlIndex root="AudioEvent" attr="id" type="AudioEvents" />	
+		<XmlIndex root="AudioFile" type="AudioFiles" />			
+		<XmlIndex root="ButtonSingleStateData" attr="id" type="ButtonSingleStateDatas" />	
+		<XmlIndex root="ExperienceLevelTemplate" attr="id" type="ExperienceLevels" />			
+		<XmlIndex root="FXList" attr="id" type="FXLists" />	
+		<XmlIndex root="FXParticleSystemTemplate" attr="id" type="FXParticleSystems" />		
+		<XmlIndex root="LocomotorTemplate" attr="id" type="Locomotors" />		
+	</IndexList>
+</Config>
