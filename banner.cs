@@ -29,7 +29,6 @@ namespace XmlCutter
             Console.WriteLine(@" |_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|    "); Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine(@" |_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|    ");
             Console.WriteLine(@"                                                                              ");Console.ForegroundColor = ConsoleColor.Gray;
-            Console.WriteLine(@"                        http://blog.haojun0823.xyz                            ");
             Console.WriteLine(@"                                                                              ");
 
             Console.ForegroundColor = ConsoleColor.Red;
@@ -37,7 +36,7 @@ namespace XmlCutter
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             MiddlePrint(@"Welcome to the program!");
             Console.ForegroundColor = ConsoleColor.Yellow;
-            MiddlePrint(@"Author: Randerion (HaoJun0823)");
+            MiddlePrint(@"Author: HaoJun0823");
             Console.ForegroundColor = ConsoleColor.Green;
             MiddlePrint(@"Today is: " + DateTime.Now.ToString());
             Console.ForegroundColor = ConsoleColor.Cyan;
