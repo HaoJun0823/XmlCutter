@@ -16,7 +16,9 @@ namespace XmlCutter
             Console.Title = Config.ConsoleTitle;
             Banner.Print();
             Console.WriteLine("Program execution...");
+            Console.WriteLine("Code By HaoJun0823");
             Console.WriteLine("https://github.com/HaoJun0823/XmlCutter");
+            Console.WriteLine("Author's note: Love my son Okami Yuuki forever!")
             foreach (string i in args)
             {
                 Console.WriteLine("Args:"+i);
